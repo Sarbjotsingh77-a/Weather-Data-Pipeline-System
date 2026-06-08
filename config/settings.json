@@ -1,0 +1,13 @@
+{
+    "schedule_interval": 60,
+    "report_generation": true,
+    "alerts_enabled": true,
+    "database_backup": true,
+    "tracked_cities": [
+        "Mumbai",
+        "Delhi",
+        "Bangalore",
+        "Chennai",
+        "Kolkata"
+    ]
+}
