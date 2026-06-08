@@ -1,4 +1,4 @@
-API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
+API_KEY = "d99d9dd7af516479eed1b3b2084ba6c4"
 
 DATABASE_NAME = "database/weather_data.db"
 
@@ -13,7 +13,3 @@ TRACKED_CITIES = [
 TEMPERATURE_ALERT_THRESHOLD = 30
 
 HUMIDITY_ALERT_THRESHOLD = 75
-
-LOG_FILE = "logs/pipeline.log"
-
-ERROR_LOG_FILE = "logs/error.log"
